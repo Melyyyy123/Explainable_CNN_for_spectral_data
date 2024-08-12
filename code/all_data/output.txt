@@ -1,0 +1,6 @@
+Dense Layer Neuron Count: 422.0
+Dropout Rate: 0.3494832761988253
+Convolutional Filters in Layer 1: 24.0
+Convolutional Kernel Size in Layer 1: 34.0
+Convolutional Filters in Layer 2: 52.0
+Convolutional Kernel Size in Layer 2: 97.0
