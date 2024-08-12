@@ -24,7 +24,8 @@ The all_data and the sub_data used for this study are subject to third party res
 The derivative dataset (sub_deriv_data) is published with the paper "MD dating: molecular decay (MD) in pinewood as a dating method" by
 J. Tintner, B. Spangl, M. Grabner, S. Helama, M. Timonen, A. J. Kirchhefer, F. Reinig, D. Nievergelt, M. Krąpiec & E. Smidt.  
 Paper link: https://www.nature.com/articles/s41598-020-68194-w  
-Dataset link:  https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-68194-w/MediaObjects/41598_2020_68194_MOESM2_ESM.csv
+Dataset link:  
+https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-020-68194-w/MediaObjects/41598_2020_68194_MOESM2_ESM.csv
 
 # Contact
 DI Dr. Johannes Tintner-Olifiers: johannes.tintner@boku.ac.at  
