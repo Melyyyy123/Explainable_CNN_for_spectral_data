@@ -1,0 +1,21 @@
+[project]
+name = "explainable-cnn-for-spectral-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.12"
+dependencies = [
+    "gpyopt==1.2.6",
+    "ipykernel==6.29.3",
+    "ipython==8.22.2",
+    "keras==3.0.5",
+    "matplotlib==3.8.1",
+    "mlxtend>=0.23.4",
+    "numpy==1.26.4",
+    "pandas==2.2.1",
+    "scikit-learn==1.4.1.post1",
+    "seaborn==0.13.2",
+    "shap==0.45.0",
+    "tensorflow==2.16.1",
+    "typing-extensions==4.10.0",
+]
